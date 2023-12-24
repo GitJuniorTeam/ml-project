@@ -1,2 +1,2 @@
-# ml-project
+# Image Classification
 Computer Vision: MNIST Classification
